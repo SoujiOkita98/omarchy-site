@@ -1,7 +1,7 @@
 {
   "source": "luma-api",
   "calendar": "https://luma.com/omarchy",
-  "refreshed": "2026-09-15",
+  "refreshed": "2026-09-16",
   "events": [
     {
       "id": "evt-YDyCEwwpiMzSFDB",
@@ -1027,12 +1027,12 @@
       "url": "https://luma.com/zh5jv195",
       "start": "2026-10-03T15:30:00.000Z",
       "end": "2026-10-03T16:30:00.000Z",
-      "timezone": "Asia/Taipei",
-      "address": null,
-      "city": null,
+      "timezone": "Africa/Nairobi",
+      "address": "2Q6J+3C, Addis Ababa, Ethiopia",
+      "city": "Addis Ababa",
       "country": "ET",
       "online": false,
-      "geo": { "lat": 10.2116702, "lon": 38.6521203, "approximate": true },
+      "geo": { "lat": 9.010187499999999, "lon": 38.7810625 },
       "hosts": [],
       "cover": "/images/meetups/evt-lNdN45JFBUoPvbk-full.webp",
       "coverWidth": 800,
