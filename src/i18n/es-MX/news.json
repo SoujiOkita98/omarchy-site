@@ -64,8 +64,8 @@
     "sourceHash": "5c7a98a0d30bdf81bdf7743ed9510e7c6d47dad679c92a02767d895dd1b3b9a5"
   },
   "omacom-foundation-launches-with-8-million": {
-    "title": "La Fundación Omacom se lanza con $18.5 millones de dólares",
-    "sourceHash": "ffdfba9446099b6703281214a96eb74b12e88f80b4a6a0a5779a64cf4f389dc3"
+    "title": "La Fundación Omacom se lanza con $18.55 millones",
+    "sourceHash": "9897bc9675ab7531fa9b3b26ae416e776161b6c1b8f07c36711af910718588af"
   },
   "omacom-foundation-to-be-exclusive-hyprland-sponsor": {
     "title": "La Omacom Foundation será patrocinadora exclusiva de Hyprland",
@@ -84,16 +84,16 @@
     "sourceHash": "7f02bf079c6694aab55addbe70ff76ae0c09970195d274f7aed308b1b76b5295"
   },
   "omacom-foundation-raises-another-half-a-million-dollars": {
-    "title": "¡Omacom Foundation recauda otro medio millón de dólares!",
-    "sourceHash": "0a0e75e5383dfa443527e945896e487bd803876f845bcaa62c1ad6fb5a3a301a"
+    "title": "¡La Fundación Omacom recauda otro medio millón de dólares!",
+    "sourceHash": "0eb523e4e5d1d54c3d5b6e715d7dc18f8b3ae20644347e94039b310ab10d0190"
   },
   "omacom-foundation-hires-outfoxxed": {
     "title": "La Fundación Omacom contrata a outfoxxed como responsable de Omarchy Shell",
     "sourceHash": "6b4c4987fc67ebfbd0295a23520056d21819c360a0932aec9a894ddf9edc6c15"
   },
   "digitalocean-joins-as-founding-corporate-patron": {
-    "title": "DigitalOcean se une como Patrocinador Corporativo Fundador con USD 3 millones",
-    "sourceHash": "9619006b80c5dbebf99d2fd691d1fd3294ac303c20e41cb8dba14cad9dd2381f"
+    "title": "DigitalOcean se une como Patrocinador Corporativo Fundador con $3 millones",
+    "sourceHash": "382fc59b20eb8b44aeb6c662af4c200a88b68625e903049706719a1ea76044e7"
   },
   "omacom-foundation-hires-emir-beganovic": {
     "title": "Omacom Foundation contrata a Emir Beganović como responsable de Infraestructura",
@@ -102,5 +102,9 @@
   "introducing-omarchy-m": {
     "title": "Presentamos Omarchy M",
     "sourceHash": "c251b6705d74e07cde8d9e7519e47231ebdd817b9853c813a46954ccad833f35"
+  },
+  "brian-cartmell-and-american-cloud-join-as-open-patronage-doubles": {
+    "title": "¡Brian Cartmell y American Cloud se unen mientras el patrocinio abierto se duplica!",
+    "sourceHash": "2fe9b8d3976c24f11fc38e764fa9ee37dd5e7a73187555688c9e535ed9762d36"
   }
 }
