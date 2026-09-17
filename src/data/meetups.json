@@ -886,23 +886,6 @@
       "coverHeight": 800
     },
     {
-      "id": "evt-XY4PE0sSpMrxY7t",
-      "title": "Omarchy NWA 001: Install Fest, Show & Tell, Tips and Tricks",
-      "url": "https://luma.com/fja5zgw2",
-      "start": "2026-09-30T23:00:00.000Z",
-      "end": "2026-10-01T00:00:00.000Z",
-      "timezone": "America/Chicago",
-      "address": "Bentonville, AR, USA",
-      "city": "Bentonville",
-      "country": "US",
-      "online": false,
-      "geo": { "lat": 36.3723561, "lon": -94.21021410000002 },
-      "hosts": [],
-      "cover": "/images/meetups/evt-XY4PE0sSpMrxY7t-full.webp",
-      "coverWidth": 800,
-      "coverHeight": 800
-    },
-    {
       "id": "evt-2h0vxlgK0HC9Weh",
       "title": "Omarchy DFW 001: Get Set Up, Show & Tell, and Dig In",
       "url": "https://luma.com/pj5yrzgv",
@@ -1086,6 +1069,23 @@
       "geo": { "lat": -10.3333333, "lon": -53.2, "approximate": true },
       "hosts": [],
       "cover": "/images/meetups/evt-ycKae6WiBSI64kk-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
+      "id": "evt-XY4PE0sSpMrxY7t",
+      "title": "Omarchy NWA 001: Install Fest, Show & Tell, Tips and Tricks",
+      "url": "https://luma.com/fja5zgw2",
+      "start": "2026-10-13T23:00:00.000Z",
+      "end": "2026-10-14T00:30:00.000Z",
+      "timezone": "America/Chicago",
+      "address": "Bentonville Public Library, 405 S Main St, Bentonville, AR 72712, USA",
+      "city": "Bentonville",
+      "country": "US",
+      "online": false,
+      "geo": { "lat": 36.3680102, "lon": -94.2082602 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-XY4PE0sSpMrxY7t-full.webp",
       "coverWidth": 800,
       "coverHeight": 800
     },
