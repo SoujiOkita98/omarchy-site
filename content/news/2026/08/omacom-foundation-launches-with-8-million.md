@@ -1,5 +1,5 @@
 ---
-title: Omacom Foundation launches with $18.5 million
+title: Omacom Foundation launches with $18.55 million
 date: 2026-08-21 17:57 +0200
 author: DHH
 author_url: https://dhh.dk
@@ -47,7 +47,7 @@ And these Distinguished Corporate Patrons are each contributing $100,000 a year 
 - [OpenAI](https://openai.com)
 - [OpenRouter](https://openrouter.ai/)
 
-Nearly 500 donors have also contributed roughly $60,000 through [open patronage](https://www.zeffy.com/en-US/donation-form/omarchy-patronage), bringing the total in pledges and donations to approximately $18.5 million.
+Nearly 500 donors have also contributed roughly $60,000 through [open patronage](https://www.zeffy.com/en-US/donation-form/omarchy-patronage), bringing the total in pledges and donations to approximately $18.55 million.
 
 This is a ridiculous sum of money, so I intend to make sure it lasts a long time, and that we make the most of it. But just as important as the incredible cushion is the vote of confidence delivered by these pledges.
 
@@ -66,3 +66,5 @@ We're going to make the prophecy of The Year of Linux on the Desktop come true. 
 *UPDATE: OpenRouter, Four Technologies, and nearly 500 donors [added another half a million dollars on September 7](/news/2026/09/omacom-foundation-raises-another-half-a-million-dollars).*
 
 *UPDATE: DigitalOcean [joined as a Founding Corporate Patron with $1 million a year for three years](/news/2026/09/digitalocean-joins-as-founding-corporate-patron/).*
+
+*UPDATE: Brian Cartmell and American Cloud [joined as open patronage doubled on September 17](/news/2026/09/brian-cartmell-and-american-cloud-join-as-open-patronage-doubles/).*

@@ -5,8 +5,33 @@
     <link>https://omarchy.org/news</link>
     <description>Notes on the people, ideas, and releases shaping Omarchy.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:30:00 GMT</lastBuildDate>
     <atom:link href="https://omarchy.org/news/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+  <title>Brian Cartmell and American Cloud join as open patronage doubles!</title>
+  <link>https://omarchy.org/news/2026/09/brian-cartmell-and-american-cloud-join-as-open-patronage-doubles</link>
+  <guid isPermaLink="true">https://omarchy.org/news/2026/09/brian-cartmell-and-american-cloud-join-as-open-patronage-doubles</guid>
+  <pubDate>Thu, 17 Sep 2026 11:30:00 GMT</pubDate>
+  <dc:creator>DHH</dc:creator>
+  <description><![CDATA[Brian Cartmell pledges $100,000 as a Distinguished Patron, American Cloud opens a new 25K tier with $25,088, and open patronage has doubled to more than $120,000 from 826 patrons, bringing the total to approximately $18.55 million.]]></description>
+  <content:encoded><![CDATA[<p>The <a href="https://omarchy.org/foundation/">Omacom Foundation</a> keeps growing! Since <a href="https://omarchy.org/news/2026/09/digitalocean-joins-as-founding-corporate-patron/">DigitalOcean joined as a Founding Corporate Patron</a> last week, we’ve welcomed a new Distinguished Patron, opened a new tier for companies on their way up, and watched open patronage double.</p>
+
+<p>First, I’m delighted to welcome <a href="https://x.com/briancartmell">Brian Cartmell</a> as a <a href="https://omarchy.org/patrons/#distinguished-patrons">Distinguished Patron</a> with a $100,000 contribution. Brian has been building on the internet since the nineties, and he’s backing this mission for exactly the right reasons. Here’s how he puts it:</p>
+
+<blockquote>
+  <p>Your computer should answer to you. With a growing push toward closed platforms and restricted AI models, I’m supporting the Omacom Foundation because Omarchy is helping keep the future open, hackable, and under the user’s control.</p>
+</blockquote>
+
+<p>Then there’s <a href="https://americancloud.com/">American Cloud</a>, joining with $25,088 for the year. Aron Wagner and his team wanted a patronage sized between open patronage and the Distinguished Corporate tier, so we made one! There’s now a <a href="https://omarchy.org/patrons/#patrons-25k">25K tier</a> under All Patrons for companies that want to put real money behind beautiful, fun &amp; agentic Linux without waiting until they’re big enough for the $100,000 a year commitment. And $25,088 is a multiple of 256, naturally, to keep with the theme. American Cloud has also offered up compute, which we may well take them up on for redundancy.</p>
+
+<p>And since we <a href="https://omarchy.org/news/2026/09/omacom-foundation-raises-another-half-a-million-dollars/">last counted</a>, open patronage has doubled! We’ve now received more than $120,000 from <a href="https://omarchy.org/patrons/#everyone">826 patrons</a> through <a href="https://www.zeffy.com/en-US/donation-form/omarchy-patronage">open patronage</a>. That includes an $8,192 pledge from Zeno, who wired it directly when the donation form wouldn’t take his card. Ten days ago, it was roughly $60,000 from nearly 500 donors. Every contribution adds to what we can do together, and together it adds up fast.</p>
+
+<p>Money from individuals who want their computer to answer to them. Money from companies growing on Linux. Money from hundreds of people who just want the prophecy fulfilled. This is how we keep going!</p>
+
+<p>Thank you to Brian, American Cloud, and everyone who’s become a patron. If you’d like to join them, write <a href="mailto:david@omarchy.org">david@omarchy.org</a> for founding and distinguished patronage, and <a href="https://www.zeffy.com/en-US/donation-form/omarchy-patronage">donate directly to the open patronage</a>.</p>
+]]></content:encoded>
+</item>
+
 <item>
   <title>Introducing Omarchy M</title>
   <link>https://omarchy.org/news/2026/09/introducing-omarchy-m</link>
@@ -103,7 +128,7 @@
 
 <p>That’s the speed of collaboration that’s <a href="https://x.com/dhh/status/2097328967095136452">possible with X</a>, agents, and boundless ambition! When people see the same opportunity and want to make something happen, there’s no reason to spend months getting to yes. We can move at the pace of the possibilities in front of us.</p>
 
-<p><a href="https://omarchy.org/patrons/#founding-token-patrons">DigitalOcean joins Meta Superintelligence Labs as a Founding Corporate Patron</a>, alongside all the individuals and companies who’ve already stepped up to fund this mission. Their pledge brings our <a href="https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/">total backing to approximately $18.5 million</a>. More room to invest in the people, projects, and infrastructure that make Omarchy better for everyone.</p>
+<p><a href="https://omarchy.org/patrons/#founding-token-patrons">DigitalOcean joins Meta Superintelligence Labs as a Founding Corporate Patron</a>, alongside all the individuals and companies who’ve already stepped up to fund this mission. Their pledge brings our <a href="https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/">total backing to approximately $18.35 million</a>. More room to invest in the people, projects, and infrastructure that make Omarchy better for everyone.</p>
 
 <p>Like hiring more amazing people! We’ve just brought on <a href="https://omarchy.org/news/2026/09/omacom-foundation-hires-krzysztof-wilczynski/">Krzysztof Wilczyński as Head of Omarchy Kernel</a> and <a href="https://omarchy.org/news/2026/09/omacom-foundation-hires-outfoxxed/">outfoxxed, the creator of Quickshell, as Head of Omarchy Shell</a>. Giving people like these the chance to work full time on making Omarchy faster, more reliable, and more capable is only possible with patrons like DigitalOcean. Their backing turns our ambitions into actual jobs for the people who can make them happen.</p>
 
@@ -146,8 +171,8 @@
   <guid isPermaLink="true">https://omarchy.org/news/2026/09/omacom-foundation-raises-another-half-a-million-dollars</guid>
   <pubDate>Mon, 07 Sep 2026 20:08:00 GMT</pubDate>
   <dc:creator>DHH</dc:creator>
-  <description><![CDATA[OpenRouter pledges $150,000 in tokens, Four Technologies commits $300,000 over three years, and nearly 500 donors add roughly $60,000, bringing the total to approximately $15.5 million.]]></description>
-  <content:encoded><![CDATA[<p>The <a href="https://omarchy.org/foundation/">Omacom Foundation</a> has raised another half a million dollars! Between a fresh supply of tokens, a three-year corporate pledge, and thousands of dollars from open patronage, that’s roughly $510,000 more committed to beautiful, fun &amp; agentic Linux. That brings our total in pledges and donations to approximately $15.5 million!</p>
+  <description><![CDATA[OpenRouter pledges $150,000 in tokens, Four Technologies commits $300,000 over three years, and nearly 500 donors add roughly $60,000, bringing the total to approximately $15.35 million.]]></description>
+  <content:encoded><![CDATA[<p>The <a href="https://omarchy.org/foundation/">Omacom Foundation</a> has raised another half a million dollars! Between a fresh supply of tokens, a three-year corporate pledge, and thousands of dollars from open patronage, that’s roughly $510,000 more committed to beautiful, fun &amp; agentic Linux. That brings our total in pledges and donations to approximately $15.35 million!</p>
 
 <p>First, we’re welcoming <a href="https://openrouter.ai/">OpenRouter</a> as a <a href="https://omarchy.org/patrons/#distinguished-corporate-patrons">Distinguished Corporate Patron</a> with $150,000 in tokens. Once that allotment is spent, we can renew the arrangement by mutual agreement. These tokens will power the agents that build, test, and maintain Omarchy. The more we can put agents to work fixing bugs, reviewing contributions, and improving the distro, the faster we can make everyone’s computer better. More fuel for the mission!</p>
 
@@ -572,7 +597,7 @@
 </item>
 
 <item>
-  <title>Omacom Foundation launches with $18.5 million</title>
+  <title>Omacom Foundation launches with $18.55 million</title>
   <link>https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million</link>
   <guid isPermaLink="true">https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million</guid>
   <pubDate>Fri, 21 Aug 2026 15:57:00 GMT</pubDate>
@@ -628,7 +653,7 @@
   <li><a href="https://openrouter.ai/">OpenRouter</a></li>
 </ul>
 
-<p>Nearly 500 donors have also contributed roughly $60,000 through <a href="https://www.zeffy.com/en-US/donation-form/omarchy-patronage">open patronage</a>, bringing the total in pledges and donations to approximately $18.5 million.</p>
+<p>Nearly 500 donors have also contributed roughly $60,000 through <a href="https://www.zeffy.com/en-US/donation-form/omarchy-patronage">open patronage</a>, bringing the total in pledges and donations to approximately $18.55 million.</p>
 
 <p>This is a ridiculous sum of money, so I intend to make sure it lasts a long time, and that we make the most of it. But just as important as the incredible cushion is the vote of confidence delivered by these pledges.</p>
 
@@ -647,6 +672,8 @@
 <p><em>UPDATE: OpenRouter, Four Technologies, and nearly 500 donors <a href="https://omarchy.org/news/2026/09/omacom-foundation-raises-another-half-a-million-dollars">added another half a million dollars on September 7</a>.</em></p>
 
 <p><em>UPDATE: DigitalOcean <a href="https://omarchy.org/news/2026/09/digitalocean-joins-as-founding-corporate-patron/">joined as a Founding Corporate Patron with $1 million a year for three years</a>.</em></p>
+
+<p><em>UPDATE: Brian Cartmell and American Cloud <a href="https://omarchy.org/news/2026/09/brian-cartmell-and-american-cloud-join-as-open-patronage-doubles/">joined as open patronage doubled on September 17</a>.</em></p>
 ]]></content:encoded>
 </item>
 
