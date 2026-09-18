@@ -110,5 +110,9 @@
   "orcarouter-joins-as-a-distinguished-corporate-patron": {
     "title": "تنضم OrcaRouter كراعٍ مؤسسي متميز",
     "sourceHash": "c6866592d6a537c584b7c1fa69da88d05a3cdc6be335b5b1dfb1328caf2a592c"
+  },
+  "introducing-omarchy-dragon": {
+    "title": "تقديم Omarchy Dragon",
+    "sourceHash": "7d80f8f4d722b2eca804c794058ea56ffab72bf145fab5aa76a083e8b41704c1"
   }
 }
