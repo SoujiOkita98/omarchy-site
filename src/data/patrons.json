@@ -177,6 +177,12 @@
     "meta": "",
     "href": "https://openrouter.ai/",
     "avatar": "/assets/images/patrons/openrouter.svg"
+   },
+   {
+    "name": "OrcaRouter",
+    "meta": "",
+    "href": "https://www.orcarouter.ai/",
+    "avatar": "/assets/images/patrons/orcarouter.webp"
    }
   ],
   "note": null
