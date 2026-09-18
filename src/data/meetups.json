@@ -563,23 +563,6 @@
       "coverHeight": 800
     },
     {
-      "id": "evt-iqktB9uxMG2ANH5",
-      "title": "Omarchy Se Miliye!",
-      "url": "https://luma.com/f1f78l5x",
-      "start": "2026-09-19T06:30:00.000Z",
-      "end": "2026-09-19T07:30:00.000Z",
-      "timezone": "Asia/Karachi",
-      "address": "Karachi, Pakistan",
-      "city": "Karachi",
-      "country": "PK",
-      "online": false,
-      "geo": { "lat": 24.860734299999997, "lon": 67.0011364 },
-      "hosts": [],
-      "cover": "/images/meetups/evt-iqktB9uxMG2ANH5-full.webp",
-      "coverWidth": 800,
-      "coverHeight": 800
-    },
-    {
       "id": "evt-9fBfsMazGFKMmsE",
       "title": "Software Freedom Day (\\w Omarchy & Ampixa)",
       "url": "https://luma.com/nq6agann",
@@ -782,6 +765,23 @@
       "cover": "/images/meetups/evt-JFiVXWC7UZPmACF-full.webp",
       "coverWidth": 800,
       "coverHeight": 597
+    },
+    {
+      "id": "evt-iqktB9uxMG2ANH5",
+      "title": "Omarchy Se Miliye!",
+      "url": "https://luma.com/f1f78l5x",
+      "start": "2026-09-26T06:30:00.000Z",
+      "end": "2026-09-26T08:30:00.000Z",
+      "timezone": "Asia/Karachi",
+      "address": "Karachi, Pakistan",
+      "city": "Karachi",
+      "country": "PK",
+      "online": false,
+      "geo": { "lat": 24.860734299999997, "lon": 67.0011364 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-iqktB9uxMG2ANH5-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
     },
     {
       "id": "evt-045iuTM17KCuLgg",
