@@ -971,23 +971,6 @@
       "coverHeight": 800
     },
     {
-      "id": "evt-DDVudPkg0eInV1Z",
-      "title": "OMARCHY NEW DELHI",
-      "url": "https://luma.com/yl6s8eqp",
-      "start": "2026-10-03T03:30:00.000Z",
-      "end": "2026-10-03T11:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "address": "New Delhi, India",
-      "city": "New Delhi",
-      "country": "IN",
-      "online": false,
-      "geo": { "lat": 28.6119843392276, "lon": 77.2091405705566 },
-      "hosts": [],
-      "cover": "/images/meetups/evt-DDVudPkg0eInV1Z-full.webp",
-      "coverWidth": 800,
-      "coverHeight": 800
-    },
-    {
       "id": "evt-1ouSFJxK78jgCia",
       "title": "Linux & Omarchy Meetup - Chennai",
       "url": "https://luma.com/8oycaeov",
@@ -1052,6 +1035,23 @@
       "geo": { "lat": -33.8622503, "lon": 151.207684 },
       "hosts": [],
       "cover": "/images/meetups/evt-uASCAbX2odjzImy-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
+      "id": "evt-DDVudPkg0eInV1Z",
+      "title": "OMARCHY NEW DELHI",
+      "url": "https://luma.com/yl6s8eqp",
+      "start": "2026-10-10T03:30:00.000Z",
+      "end": "2026-10-10T10:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "address": "Gurugram, India",
+      "city": "Gurugram",
+      "country": "IN",
+      "online": false,
+      "geo": { "lat": 28.4085765044744, "lon": 77.12038818121123 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-DDVudPkg0eInV1Z-full.webp",
       "coverWidth": 800,
       "coverHeight": 800
     },
