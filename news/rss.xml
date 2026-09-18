@@ -13,12 +13,12 @@
   <guid isPermaLink="true">https://omarchy.org/news/2026/09/introducing-omarchy-dragon</guid>
   <pubDate>Fri, 18 Sep 2026 06:00:00 GMT</pubDate>
   <dc:creator>DHH</dc:creator>
-  <description><![CDATA[Meet the four people bringing Omarchy to Snapdragon laptops, from installation and recovery to battery life, sleep, drivers, and upstream Linux fixes.]]></description>
+  <description><![CDATA[Meet the five people bringing Omarchy to Snapdragon laptops, from installation and recovery to battery life, sleep, drivers, and upstream Linux fixes.]]></description>
   <content:encoded><![CDATA[<p>We should have teams responsible for every major platform, and Qualcomm’s Snapdragon certainly deserves one! Last week, we introduced <a href="https://omarchy.org/news/2026/09/introducing-omarchy-m/">Omarchy M</a> for Apple hardware. Today, we’re making <a href="https://omarchy.org/teams/#dragon">Omarchy Dragon</a> official: our team working to make Omarchy run beautifully on Snapdragon computers.</p>
 
 <p>The goal is to turn these thin-and-light laptops into dependable everyday Linux machines. Getting a desktop to boot is a start. Getting the machine to sleep, wake up, play video efficiently, update its firmware, and last through a day of work is what makes it a computer you can rely on.</p>
 
-<p>Four people are already working on the pieces:</p>
+<p>Five people are already working on the pieces:</p>
 
 <p><strong>Jim Martin</strong> (<a href="https://github.com/jdvmi00">GitHub</a>) is bringing up Linux on a Surface Laptop 8 with the Snapdragon X2 Elite. He’s been working on Omarchy for DGX Spark and has already contributed a graphical disk-unlock fix to the ARM installer. For Dragon, he’s focused on Surface and X2 Elite support, testing installation and recovery on real hardware, and getting useful ARM fixes into the shared Omarchy projects.</p>
 
@@ -28,11 +28,13 @@
 
 <p><strong>Bob Prendergast</strong> (<a href="https://github.com/bprendie">GitHub</a>) is a solution architect and Linux veteran who’s built his own <a href="https://github.com/bprendie/omarchy-snapdragon">Omarchy Snapdragon setup</a> using agents and the Ubuntu kernel. He’s working with an HP EliteBook 14 G1q and a Lenovo ThinkPad T14s Gen 6. More machines, more testing, and more of the practical work it takes to turn a promising platform into something people can install and use.</p>
 
+<p><strong>Miguel Cruz</strong> (<a href="https://x.com/acelogic_">X</a>) is already part of Omarchy M and is bringing his experience with Apple Silicon boot and hardware compatibility to the Qualcomm side. His background spans OS internals, reverse engineering, and embedded systems, with contributions to Linux, QEMU, and Virtio. He’s joining the effort with an ASUS Zenbook A16 powered by Snapdragon X2 Elite Extreme, focusing on boot and firmware bring-up, driver issues (especially the GPU), and testing fixes on real hardware.</p>
+
 <p>There’s useful overlap with the rest of our ARM work, too. Packages, installer improvements, and fixes developed for one machine can help another. Jim and Matt are both interested in extending that work to Raspberry Pi and other ARM platforms as well.</p>
 
 <p>I’m also working to establish a direct line to Qualcomm. An engineer working on Linux compatibility there has already reached out. Let’s see if we can’t get some proper support behind this effort.</p>
 
-<p>This is work in progress, with compatibility being worked through machine by machine. But we now have a team taking responsibility for it, testing on real hardware, and pushing fixes upstream. Welcome, Jim, Birk, Matt, and Bob. Let’s bring beautiful, fun &amp; agentic Linux to Snapdragon!</p>
+<p>This is work in progress, with compatibility being worked through machine by machine. But we now have a team taking responsibility for it, testing on real hardware, and pushing fixes upstream. Welcome, Jim, Birk, Matt, Bob, and Miguel. Let’s bring beautiful, fun &amp; agentic Linux to Snapdragon!</p>
 ]]></content:encoded>
 </item>
 
