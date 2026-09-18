@@ -1158,6 +1158,23 @@
       "coverHeight": 800
     },
     {
+      "id": "evt-e5O8vjX8ATVNE5C",
+      "title": "Omarchy Brisbane Meetup 001",
+      "url": "https://luma.com/c2gagqw1",
+      "start": "2026-10-20T07:30:00.000Z",
+      "end": "2026-10-20T10:00:00.000Z",
+      "timezone": "Australia/Brisbane",
+      "address": "Tanda, Level 4/108 Wickham St, Fortitude Valley QLD 4006, Australia",
+      "city": "Fortitude Valley",
+      "country": "AU",
+      "online": false,
+      "geo": { "lat": -27.460175699999997, "lon": 153.0314666 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-e5O8vjX8ATVNE5C-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
       "id": "evt-q5DFUXoGZH97A6g",
       "title": "Omarchy Taipei #1",
       "url": "https://luma.com/znfmz464",
