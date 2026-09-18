@@ -1,6 +1,6 @@
 ---
 title: OrcaRouter joins as a Distinguished Corporate Patron
-date: 2026-09-17 20:15 +0200
+date: 2026-09-18 08:15 +0200
 author: DHH
 author_url: https://dhh.dk
 description: OrcaRouter joins the Omacom Foundation as a Distinguished Corporate Patron. Our security and kernel teams will start using OrcaCyber Zero 1.0 to help investigate and reproduce vulnerabilities.

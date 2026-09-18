@@ -70,4 +70,4 @@ We're going to make the prophecy of The Year of Linux on the Desktop come true. 
 
 *UPDATE: Brian Cartmell and American Cloud [joined as open patronage doubled on September 17](/news/2026/09/brian-cartmell-and-american-cloud-join-as-open-patronage-doubles/).*
 
-*UPDATE: OrcaRouter [joined as a Distinguished Corporate Patron with $150,000 in tokens on September 17](/news/2026/09/orcarouter-joins-as-a-distinguished-corporate-patron/).*
+*UPDATE: OrcaRouter [joined as a Distinguished Corporate Patron with $150,000 in tokens on September 18](/news/2026/09/orcarouter-joins-as-a-distinguished-corporate-patron/).*
