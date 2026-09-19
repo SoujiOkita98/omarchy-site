@@ -1022,23 +1022,6 @@
       "coverHeight": 800
     },
     {
-      "id": "evt-uASCAbX2odjzImy",
-      "title": "Omarchy Sydney",
-      "url": "https://luma.com/ufs7ing3",
-      "start": "2026-10-07T07:30:00.000Z",
-      "end": "2026-10-07T09:30:00.000Z",
-      "timezone": "Australia/Sydney",
-      "address": "Sydney NSW, Australia",
-      "city": "Sydney",
-      "country": "AU",
-      "online": false,
-      "geo": { "lat": -33.8622503, "lon": 151.207684 },
-      "hosts": [],
-      "cover": "/images/meetups/evt-uASCAbX2odjzImy-full.webp",
-      "coverWidth": 800,
-      "coverHeight": 800
-    },
-    {
       "id": "evt-DDVudPkg0eInV1Z",
       "title": "OMARCHY NEW DELHI",
       "url": "https://luma.com/yl6s8eqp",
@@ -1275,6 +1258,23 @@
       "cover": "/images/meetups/evt-Go579QoFlyA9E5r-full.webp",
       "coverWidth": 400,
       "coverHeight": 400
+    },
+    {
+      "id": "evt-uASCAbX2odjzImy",
+      "title": "Omarchy Sydney",
+      "url": "https://luma.com/ufs7ing3",
+      "start": "2026-11-04T08:00:00.000Z",
+      "end": "2026-11-04T10:00:00.000Z",
+      "timezone": "Australia/Sydney",
+      "address": "Sydney NSW, Australia",
+      "city": "Sydney",
+      "country": "AU",
+      "online": false,
+      "geo": { "lat": -33.8622503, "lon": 151.207684 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-uASCAbX2odjzImy-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
     },
     {
       "id": "evt-FlmSjVfDHvGwMCi",
