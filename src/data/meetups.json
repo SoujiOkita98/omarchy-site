@@ -1022,6 +1022,23 @@
       "coverHeight": 800
     },
     {
+      "id": "evt-3xFi2ywmmZyyBPe",
+      "title": "Omarchy Vancouver",
+      "url": "https://luma.com/ncar2zld",
+      "start": "2026-10-07T00:30:00.000Z",
+      "end": "2026-10-07T03:30:00.000Z",
+      "timezone": "America/Vancouver",
+      "address": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada",
+      "city": "Vancouver",
+      "country": "CA",
+      "online": false,
+      "geo": { "lat": 49.282975099999994, "lon": -123.11064370000001 },
+      "hosts": [],
+      "cover": "/images/meetups/evt-3xFi2ywmmZyyBPe-full.webp",
+      "coverWidth": 800,
+      "coverHeight": 800
+    },
+    {
       "id": "evt-DDVudPkg0eInV1Z",
       "title": "OMARCHY NEW DELHI",
       "url": "https://luma.com/yl6s8eqp",
