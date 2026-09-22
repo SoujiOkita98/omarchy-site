@@ -64,8 +64,8 @@
     "sourceHash": "5c7a98a0d30bdf81bdf7743ed9510e7c6d47dad679c92a02767d895dd1b3b9a5"
   },
   "omacom-foundation-launches-with-8-million": {
-    "title": "Omacom Foundation का शुभारंभ $18.7 मिलियन के साथ",
-    "sourceHash": "7ec56d9b3ffa00efc4e9790afb7d9f6813837d510db0c0048f703e16a10de5b8"
+    "title": "Omacom Foundation $21.7 मिलियन के साथ लॉन्च",
+    "sourceHash": "d9e32fe69c8ec12634c40c20e6ffe4668a63ea365a175af61fa78bc0acd5bcf7"
   },
   "omacom-foundation-to-be-exclusive-hyprland-sponsor": {
     "title": "Omacom Foundation बनेगी Hyprland की विशेष प्रायोजक",
@@ -114,5 +114,9 @@
   "introducing-omarchy-dragon": {
     "title": "Omarchy Dragon का परिचय",
     "sourceHash": "7d80f8f4d722b2eca804c794058ea56ffab72bf145fab5aa76a083e8b41704c1"
+  },
+  "alibaba-cloud-joins-as-founding-corporate-patron": {
+    "title": "Alibaba Cloud $3 मिलियन के साथ फाउंडिंग कॉर्पोरेट पेट्रन के रूप में शामिल",
+    "sourceHash": "6e9a4deec8e7e262ef6e7da4bcdf871b484f416ef49206500ff64ccb0d4ea8ea"
   }
 }

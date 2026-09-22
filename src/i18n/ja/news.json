@@ -72,8 +72,8 @@
     "sourceHash": "524022d62a6e34bbbc189419752844e27e0cfa2b88cffb0107e302d80c3d6265"
   },
   "omacom-foundation-launches-with-8-million": {
-    "title": "Omacom Foundationが1870万ドルで始動",
-    "sourceHash": "7ec56d9b3ffa00efc4e9790afb7d9f6813837d510db0c0048f703e16a10de5b8"
+    "title": "Omacom Foundationが2170万ドルで始動",
+    "sourceHash": "d9e32fe69c8ec12634c40c20e6ffe4668a63ea365a175af61fa78bc0acd5bcf7"
   },
   "omacom-foundation-funding-hits-10m": {
     "title": "Omacom Foundationの支援総額が1,000万ドルに",
@@ -114,5 +114,9 @@
   "introducing-omarchy-dragon": {
     "title": "Omarchy Dragon のご紹介",
     "sourceHash": "7d80f8f4d722b2eca804c794058ea56ffab72bf145fab5aa76a083e8b41704c1"
+  },
+  "alibaba-cloud-joins-as-founding-corporate-patron": {
+    "title": "Alibaba CloudがFounding Corporate Patronとして参加、$3 millionを拠出",
+    "sourceHash": "6e9a4deec8e7e262ef6e7da4bcdf871b484f416ef49206500ff64ccb0d4ea8ea"
   }
 }
