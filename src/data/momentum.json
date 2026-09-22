@@ -12,7 +12,7 @@
     ]
   },
   "foundation": {
-    "total": 18.7,
+    "total": 21.7,
     "steps": [
       {
         "date": "2026-08-21",
@@ -63,6 +63,11 @@
         "date": "2026-09-17",
         "amount": 18.7,
         "post": "/news/2026/09/orcarouter-joins-as-a-distinguished-corporate-patron/"
+      },
+      {
+        "date": "2026-09-22",
+        "amount": 21.7,
+        "post": "/news/2026/09/alibaba-cloud-joins-as-founding-corporate-patron/"
       }
     ]
   },
